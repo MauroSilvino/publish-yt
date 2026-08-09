@@ -22,7 +22,7 @@ OUT  = os.path.join(HERE, "schedule.json")
 
 def main():
     ini = sys.argv[1] if len(sys.argv) > 1 else "2026-08-10"
-    fim = sys.argv[2] if len(sys.argv) > 2 else "2026-08-22"
+    fim = sys.argv[2] if len(sys.argv) > 2 else "2026-09-23"  # cobre 10/08..23/09 (só entram itens com video_id)
     itens = json.load(open(MAN, encoding="utf-8"))["itens"]
     canais = json.load(open(CFG, encoding="utf-8"))["canais"]
     acct = {k: v["composio_account_id"] for k, v in canais.items()}

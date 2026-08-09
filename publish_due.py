@@ -28,7 +28,20 @@ from datetime import datetime, timezone
 import urllib.request, urllib.error
 
 MCP_URL   = os.environ.get("COMPOSIO_MCP_URL", "https://connect.composio.dev/mcp")
-KEY       = os.environ.get("COMPOSIO_CONSUMER_KEY", "") or os.environ.get("COMPOSIO_API_KEY", "")
+
+def _resolve_key():
+    k = os.environ.get("COMPOSIO_CONSUMER_KEY", "") or os.environ.get("COMPOSIO_API_KEY", "")
+    if k:
+        return k
+    # fallback local (máquina do usuário): chaves-api.json (fora do git). No GitHub Actions
+    # esse arquivo não existe, então continua valendo o secret via env acima.
+    try:
+        p = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "chaves-api.json")
+        return json.load(open(p, encoding="utf-8")).get("composio_consumer_key", "")
+    except Exception:
+        return ""
+
+KEY = _resolve_key()
 SCHED_FILE = os.environ.get("SCHEDULE_FILE", os.path.join(os.path.dirname(__file__), "schedule.json"))
 STATE_FILE = os.environ.get("STATE_FILE", os.path.join(os.path.dirname(__file__), "state.json"))
 

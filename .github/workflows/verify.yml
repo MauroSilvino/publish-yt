@@ -1,0 +1,17 @@
+name: verificar-canais
+
+# Verificação de fim de esteira, sob demanda (Actions > verificar-canais > Run workflow).
+# Confere que todo id da agenda (schedule.json = o que o cron publica) existe no canal,
+# e faz a varredura best-effort de duplicatas. Falha (vermelho) se faltar algum id.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar existência + duplicatas
+        env:
+          COMPOSIO_CONSUMER_KEY: ${{ secrets.COMPOSIO_CONSUMER_KEY }}
+        run: python3 verify_channels.py --dupes

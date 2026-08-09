@@ -1,0 +1,40 @@
+name: publicar-youtube-agendado
+
+# Cron da NUVEM do GitHub (roda com o PC desligado). A cada 10 min ele checa a
+# agenda e publica os vídeos cujo horário-alvo já venceu. O GitHub pode atrasar
+# alguns minutos o disparo do cron — aceitável pra publicação de vídeo.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}   # botão de rodar manualmente
+
+permissions:
+  contents: write         # pra commitar o state.json de volta
+
+concurrency:
+  group: publicar-youtube
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publicar vencidos
+        env:
+          COMPOSIO_CONSUMER_KEY: ${{ secrets.COMPOSIO_CONSUMER_KEY }}
+        run: python3 publish_due.py
+
+      - name: Persistir estado (state.json)
+        if: always()
+        run: |
+          if ! git diff --quiet -- state.json; then
+            git config user.name  "cloud-publisher"
+            git config user.email "actions@users.noreply.github.com"
+            git add state.json
+            git commit -m "state: publicados até $(date -u +%FT%TZ)"
+            git push
+          else
+            echo "sem mudança no state.json"
+          fi

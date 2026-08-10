@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 575,
+  "total": 579,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4912,6 +4912,15 @@
       "publish_at_local": "2026-08-27 06:00 America/Sao_Paulo"
     },
     {
+      "video_id": "aa4Ont0Dma0",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "longo",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T09:00:00Z",
+      "publish_at_local": "2026-08-27 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "U-n_ini3_w0",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -5180,6 +5189,33 @@
       "data_alvo": "2026-08-27",
       "publish_at_utc": "2026-08-28T02:00:00Z",
       "publish_at_local": "2026-08-27 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "PIhSSco9eck",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-08-28",
+      "publish_at_utc": "2026-08-28T16:30:00Z",
+      "publish_at_local": "2026-08-28 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "0uKcFdCMw74",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-08-28",
+      "publish_at_utc": "2026-08-28T22:00:00Z",
+      "publish_at_local": "2026-08-28 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "xgRC0p-YAVY",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-08-28",
+      "publish_at_utc": "2026-08-29T02:00:00Z",
+      "publish_at_local": "2026-08-28 20:00 America/Mexico_City"
     }
   ]
 }

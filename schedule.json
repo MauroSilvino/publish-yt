@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 520,
+  "total": 527,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4615,6 +4615,24 @@
       "publish_at_local": "2026-08-25 20:00 America/Mexico_City"
     },
     {
+      "video_id": "L2QK_KZep5Q",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T09:00:00Z",
+      "publish_at_local": "2026-08-26 06:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "XNFm8OM9yXM",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T11:00:00Z",
+      "publish_at_local": "2026-08-26 08:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "BvaJsoQ3PHo",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -4622,6 +4640,24 @@
       "data_alvo": "2026-08-26",
       "publish_at_utc": "2026-08-26T14:30:00Z",
       "publish_at_local": "2026-08-26 10:30 America/New_York"
+    },
+    {
+      "video_id": "Rf3y5U18_Ms",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T14:30:00Z",
+      "publish_at_local": "2026-08-26 10:30 America/New_York"
+    },
+    {
+      "video_id": "7KqqrDNvsfs",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T15:30:00Z",
+      "publish_at_local": "2026-08-26 12:30 America/Sao_Paulo"
     },
     {
       "video_id": "YLT4iWy9ttM",
@@ -4660,6 +4696,15 @@
       "publish_at_local": "2026-08-26 16:00 America/New_York"
     },
     {
+      "video_id": "DKVeXR_CRgA",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T20:00:00Z",
+      "publish_at_local": "2026-08-26 16:00 America/New_York"
+    },
+    {
       "video_id": "JLAtWq3nS78",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -4669,9 +4714,27 @@
       "publish_at_local": "2026-08-26 16:00 America/Mexico_City"
     },
     {
+      "video_id": "Vr6Ljo3BIcQ",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T23:00:00Z",
+      "publish_at_local": "2026-08-26 20:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "9LzXKQlTCQA",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-27T00:00:00Z",
+      "publish_at_local": "2026-08-26 20:00 America/New_York"
+    },
+    {
+      "video_id": "WhmUNjXBQ1U",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
       "peca": "short3",
       "data_alvo": "2026-08-26",
       "publish_at_utc": "2026-08-27T00:00:00Z",

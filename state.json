@@ -1,3 +1,16 @@
 {
-  "publicados": {}
+  "publicados": {
+    "fxvDUgJCeNE": {
+      "quando": "2026-08-10T09:53:33Z",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-08-10"
+    },
+    "lxVlyKPyYtg": {
+      "quando": "2026-08-10T09:53:36Z",
+      "canal": "Voz da Superação",
+      "peca": "longo",
+      "data_alvo": "2026-08-10"
+    }
+  }
 }

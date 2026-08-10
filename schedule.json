@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 504,
+  "total": 515,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4336,6 +4336,15 @@
       "publish_at_local": "2026-08-25 06:00 America/Sao_Paulo"
     },
     {
+      "video_id": "yHJgeQ894FU",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "longo",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T09:00:00Z",
+      "publish_at_local": "2026-08-25 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "1ngIRABvDbc",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -4343,6 +4352,24 @@
       "data_alvo": "2026-08-25",
       "publish_at_utc": "2026-08-25T11:00:00Z",
       "publish_at_local": "2026-08-25 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "jTeI1KFSXfQ",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short1",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T11:00:00Z",
+      "publish_at_local": "2026-08-25 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "lE_LkaI937s",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "longo",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T11:30:00Z",
+      "publish_at_local": "2026-08-25 07:30 America/New_York"
     },
     {
       "video_id": "3dskscX_Dm8",
@@ -4379,6 +4406,24 @@
       "data_alvo": "2026-08-25",
       "publish_at_utc": "2026-08-25T15:30:00Z",
       "publish_at_local": "2026-08-25 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "TceoSEM7a-s",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short2",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T15:30:00Z",
+      "publish_at_local": "2026-08-25 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "CHuQVcikS4M",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short1",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T16:00:00Z",
+      "publish_at_local": "2026-08-25 12:00 America/New_York"
     },
     {
       "video_id": "1j6Jh26pLwg",
@@ -4471,6 +4516,15 @@
       "publish_at_local": "2026-08-25 14:00 America/Mexico_City"
     },
     {
+      "video_id": "BPwil_mUJSc",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short2",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T21:30:00Z",
+      "publish_at_local": "2026-08-25 17:30 America/New_York"
+    },
+    {
       "video_id": "RKOp5HzouFE",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -4492,6 +4546,15 @@
       "video_id": "8ZJcDt_f8uw",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T23:00:00Z",
+      "publish_at_local": "2026-08-25 20:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "utfpt-NSdL4",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short3",
       "data_alvo": "2026-08-25",
       "publish_at_utc": "2026-08-25T23:00:00Z",
@@ -4525,6 +4588,15 @@
       "publish_at_local": "2026-08-25 20:00 America/New_York"
     },
     {
+      "video_id": "qaejWrDkKd0",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short3",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-26T00:00:00Z",
+      "publish_at_local": "2026-08-25 20:00 America/New_York"
+    },
+    {
       "video_id": "phRJCe6oVWM",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -4541,6 +4613,33 @@
       "data_alvo": "2026-08-25",
       "publish_at_utc": "2026-08-26T02:00:00Z",
       "publish_at_local": "2026-08-25 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "YLT4iWy9ttM",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T16:30:00Z",
+      "publish_at_local": "2026-08-26 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "JLAtWq3nS78",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T22:00:00Z",
+      "publish_at_local": "2026-08-26 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "o3msvYUnQCQ",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-27T02:00:00Z",
+      "publish_at_local": "2026-08-26 20:00 America/Mexico_City"
     }
   ]
 }

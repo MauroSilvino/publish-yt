@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 544,
+  "total": 551,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4901,6 +4901,69 @@
       "data_alvo": "2026-08-26",
       "publish_at_utc": "2026-08-27T02:00:00Z",
       "publish_at_local": "2026-08-26 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "T6A2eehfgs0",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short1",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T14:30:00Z",
+      "publish_at_local": "2026-08-27 10:30 America/New_York"
+    },
+    {
+      "video_id": "BIovykJi9Z4",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T16:30:00Z",
+      "publish_at_local": "2026-08-27 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "VcO9HSTOuuQ",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short2",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T20:00:00Z",
+      "publish_at_local": "2026-08-27 16:00 America/New_York"
+    },
+    {
+      "video_id": "u8NO11HPXDI",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T20:00:00Z",
+      "publish_at_local": "2026-08-27 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "8Odb2IJzBmc",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-27T22:00:00Z",
+      "publish_at_local": "2026-08-27 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "e1jCCTvoruk",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-28T00:00:00Z",
+      "publish_at_local": "2026-08-27 20:00 America/New_York"
+    },
+    {
+      "video_id": "fxsqth9xqpA",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-08-27",
+      "publish_at_utc": "2026-08-28T02:00:00Z",
+      "publish_at_local": "2026-08-27 20:00 America/Mexico_City"
     }
   ]
 }

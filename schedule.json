@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 464,
+  "total": 472,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4057,6 +4057,15 @@
       "publish_at_local": "2026-08-24 08:00 America/Sao_Paulo"
     },
     {
+      "video_id": "M7-heivfMCQ",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "longo",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T11:30:00Z",
+      "publish_at_local": "2026-08-24 07:30 America/New_York"
+    },
+    {
       "video_id": "81jrEaBhgS4",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -4075,6 +4084,15 @@
       "publish_at_local": "2026-08-24 10:30 America/New_York"
     },
     {
+      "video_id": "sdu67y1G0Wc",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short1",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T14:30:00Z",
+      "publish_at_local": "2026-08-24 10:30 America/New_York"
+    },
+    {
       "video_id": "iUySuJ3EGXc",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -4082,6 +4100,15 @@
       "data_alvo": "2026-08-24",
       "publish_at_utc": "2026-08-24T15:30:00Z",
       "publish_at_local": "2026-08-24 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "tj85twHTye8",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short1",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T16:00:00Z",
+      "publish_at_local": "2026-08-24 12:00 America/New_York"
     },
     {
       "video_id": "iggNd88-7KU",
@@ -4105,6 +4132,15 @@
       "video_id": "J1AoV0NaaCU",
       "account_id": "youtube_borrow-widely",
       "canal": "Forgotten Catastrophes",
+      "peca": "longo",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T18:00:00Z",
+      "publish_at_local": "2026-08-24 14:00 America/New_York"
+    },
+    {
+      "video_id": "6jQmKpOrs9I",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "longo",
       "data_alvo": "2026-08-24",
       "publish_at_utc": "2026-08-24T18:00:00Z",
@@ -4138,6 +4174,24 @@
       "publish_at_local": "2026-08-24 16:00 America/New_York"
     },
     {
+      "video_id": "ci-FGQBmWjc",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short2",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T20:00:00Z",
+      "publish_at_local": "2026-08-24 16:00 America/New_York"
+    },
+    {
+      "video_id": "dncD2ehjjg4",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short2",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-24T21:30:00Z",
+      "publish_at_local": "2026-08-24 17:30 America/New_York"
+    },
+    {
       "video_id": "3ZwO2IEO6Bs",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -4168,6 +4222,24 @@
       "video_id": "TBD487IPx0M",
       "account_id": "youtube_borrow-widely",
       "canal": "Forgotten Catastrophes",
+      "peca": "short3",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-25T00:00:00Z",
+      "publish_at_local": "2026-08-24 20:00 America/New_York"
+    },
+    {
+      "video_id": "CrsDj4yadaM",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short3",
+      "data_alvo": "2026-08-24",
+      "publish_at_utc": "2026-08-25T00:00:00Z",
+      "publish_at_local": "2026-08-24 20:00 America/New_York"
+    },
+    {
+      "video_id": "mNioa8-faig",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
       "peca": "short3",
       "data_alvo": "2026-08-24",
       "publish_at_utc": "2026-08-25T00:00:00Z",

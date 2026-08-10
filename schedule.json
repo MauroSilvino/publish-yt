@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 480,
+  "total": 484,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4325,6 +4325,42 @@
       "data_alvo": "2026-08-24",
       "publish_at_utc": "2026-08-25T02:00:00Z",
       "publish_at_local": "2026-08-24 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "1j6Jh26pLwg",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T16:30:00Z",
+      "publish_at_local": "2026-08-25 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "AGQizjhi4Eg",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T20:00:00Z",
+      "publish_at_local": "2026-08-25 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "RKOp5HzouFE",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-25T22:00:00Z",
+      "publish_at_local": "2026-08-25 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "phRJCe6oVWM",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-08-25",
+      "publish_at_utc": "2026-08-26T02:00:00Z",
+      "publish_at_local": "2026-08-25 20:00 America/Mexico_City"
     }
   ]
 }

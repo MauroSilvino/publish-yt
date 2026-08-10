@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 515,
+  "total": 516,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -4622,6 +4622,15 @@
       "data_alvo": "2026-08-26",
       "publish_at_utc": "2026-08-26T16:30:00Z",
       "publish_at_local": "2026-08-26 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "KMTDRBmcJGU",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-08-26",
+      "publish_at_utc": "2026-08-26T20:00:00Z",
+      "publish_at_local": "2026-08-26 14:00 America/Mexico_City"
     },
     {
       "video_id": "JLAtWq3nS78",

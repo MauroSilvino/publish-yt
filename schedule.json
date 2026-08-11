@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 726,
+  "total": 727,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -6427,6 +6427,15 @@
       "video_id": "RCYvjNMG_Co",
       "account_id": "youtube_borrow-widely",
       "canal": "Forgotten Catastrophes",
+      "peca": "longo",
+      "data_alvo": "2026-09-01",
+      "publish_at_utc": "2026-09-01T18:00:00Z",
+      "publish_at_local": "2026-09-01 14:00 America/New_York"
+    },
+    {
+      "video_id": "3kcTaxtg90I",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "longo",
       "data_alvo": "2026-09-01",
       "publish_at_utc": "2026-09-01T18:00:00Z",

@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 727,
+  "total": 728,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -6359,6 +6359,15 @@
       "data_alvo": "2026-09-01",
       "publish_at_utc": "2026-09-01T11:00:00Z",
       "publish_at_local": "2026-09-01 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "tFqF2Lr43eA",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "longo",
+      "data_alvo": "2026-09-01",
+      "publish_at_utc": "2026-09-01T11:30:00Z",
+      "publish_at_local": "2026-09-01 07:30 America/New_York"
     },
     {
       "video_id": "dCOvt_Bi2fs",

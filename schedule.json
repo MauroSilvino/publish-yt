@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 775,
+  "total": 776,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -6935,6 +6935,15 @@
       "data_alvo": "2026-09-03",
       "publish_at_utc": "2026-09-03T16:30:00Z",
       "publish_at_local": "2026-09-03 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "eBJ1Yh6SzcM",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "longo",
+      "data_alvo": "2026-09-03",
+      "publish_at_utc": "2026-09-03T18:00:00Z",
+      "publish_at_local": "2026-09-03 14:00 America/New_York"
     },
     {
       "video_id": "C8_trp3RRCk",

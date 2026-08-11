@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 652,
+  "total": 660,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -5794,6 +5794,24 @@
       "publish_at_local": "2026-08-30 10:30 America/New_York"
     },
     {
+      "video_id": "GuA8F3dzhwo",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T14:30:00Z",
+      "publish_at_local": "2026-08-30 10:30 America/New_York"
+    },
+    {
+      "video_id": "hQmO1RBzc3A",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short1",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T14:30:00Z",
+      "publish_at_local": "2026-08-30 10:30 America/New_York"
+    },
+    {
       "video_id": "XW8CDXXmeKk",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -5821,6 +5839,24 @@
       "publish_at_local": "2026-08-30 14:00 America/New_York"
     },
     {
+      "video_id": "9_bEGWaWDR8",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "longo",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T18:00:00Z",
+      "publish_at_local": "2026-08-30 14:00 America/New_York"
+    },
+    {
+      "video_id": "jjdx-NcO1DY",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "longo",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T18:00:00Z",
+      "publish_at_local": "2026-08-30 14:00 America/New_York"
+    },
+    {
       "video_id": "E4Sp3k1g0oc",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -5833,6 +5869,24 @@
       "video_id": "6Odi5JB7UvI",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short2",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T20:00:00Z",
+      "publish_at_local": "2026-08-30 16:00 America/New_York"
+    },
+    {
+      "video_id": "AFKFUj32Vek",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-30T20:00:00Z",
+      "publish_at_local": "2026-08-30 16:00 America/New_York"
+    },
+    {
+      "video_id": "eQLAHiRGNic",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "short2",
       "data_alvo": "2026-08-30",
       "publish_at_utc": "2026-08-30T20:00:00Z",
@@ -5860,6 +5914,24 @@
       "video_id": "-HlwLScWJPM",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-31T00:00:00Z",
+      "publish_at_local": "2026-08-30 20:00 America/New_York"
+    },
+    {
+      "video_id": "guq1JDMkwTQ",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short3",
+      "data_alvo": "2026-08-30",
+      "publish_at_utc": "2026-08-31T00:00:00Z",
+      "publish_at_local": "2026-08-30 20:00 America/New_York"
+    },
+    {
+      "video_id": "TB5cUzu_Qik",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "short3",
       "data_alvo": "2026-08-30",
       "publish_at_utc": "2026-08-31T00:00:00Z",

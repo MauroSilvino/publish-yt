@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 679,
+  "total": 688,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -6055,6 +6055,24 @@
       "publish_at_local": "2026-08-30 20:00 America/Mexico_City"
     },
     {
+      "video_id": "ubRB6JNxpqI",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T09:00:00Z",
+      "publish_at_local": "2026-08-31 06:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "sC_TZ35UHw8",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T11:00:00Z",
+      "publish_at_local": "2026-08-31 08:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "PZVQqsc-KqU",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -6064,6 +6082,24 @@
       "publish_at_local": "2026-08-31 10:30 America/New_York"
     },
     {
+      "video_id": "JUp3Vl8Avhs",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T14:30:00Z",
+      "publish_at_local": "2026-08-31 10:30 America/New_York"
+    },
+    {
+      "video_id": "XvHtJjDiIrE",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T15:30:00Z",
+      "publish_at_local": "2026-08-31 12:30 America/Sao_Paulo"
+    },
+    {
       "video_id": "Bxu3rH8gHlc",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -6071,6 +6107,24 @@
       "data_alvo": "2026-08-31",
       "publish_at_utc": "2026-08-31T16:30:00Z",
       "publish_at_local": "2026-08-31 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "xern1wCokKg",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "longo",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T18:00:00Z",
+      "publish_at_local": "2026-08-31 14:00 America/New_York"
+    },
+    {
+      "video_id": "utdl6bOxZew",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "longo",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T18:00:00Z",
+      "publish_at_local": "2026-08-31 14:00 America/New_York"
     },
     {
       "video_id": "FLbEzY6AuEU",
@@ -6091,6 +6145,15 @@
       "publish_at_local": "2026-08-31 16:00 America/New_York"
     },
     {
+      "video_id": "qGWEs8SvaRA",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T20:00:00Z",
+      "publish_at_local": "2026-08-31 16:00 America/New_York"
+    },
+    {
       "video_id": "5x9U_vTY4ck",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -6100,9 +6163,27 @@
       "publish_at_local": "2026-08-31 16:00 America/Mexico_City"
     },
     {
+      "video_id": "EELvGIJW_24",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-08-31T23:00:00Z",
+      "publish_at_local": "2026-08-31 20:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "-69w1PE6kYo",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-08-31",
+      "publish_at_utc": "2026-09-01T00:00:00Z",
+      "publish_at_local": "2026-08-31 20:00 America/New_York"
+    },
+    {
+      "video_id": "lewgd5niIJc",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
       "peca": "short3",
       "data_alvo": "2026-08-31",
       "publish_at_utc": "2026-09-01T00:00:00Z",

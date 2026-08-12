@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 812,
+  "total": 824,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -7234,6 +7234,24 @@
       "publish_at_local": "2026-09-04 10:30 America/New_York"
     },
     {
+      "video_id": "Q3-CDV1DW-U",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T14:30:00Z",
+      "publish_at_local": "2026-09-04 10:30 America/New_York"
+    },
+    {
+      "video_id": "k7-kwYuRW-A",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short1",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T14:30:00Z",
+      "publish_at_local": "2026-09-04 10:30 America/New_York"
+    },
+    {
       "video_id": "xpSqW6hl9UQ",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -7243,9 +7261,27 @@
       "publish_at_local": "2026-09-04 12:30 America/Sao_Paulo"
     },
     {
+      "video_id": "cMJbZK06j7w",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short1",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T16:00:00Z",
+      "publish_at_local": "2026-09-04 12:00 America/New_York"
+    },
+    {
       "video_id": "UQqp8gh8r1E",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T16:30:00Z",
+      "publish_at_local": "2026-09-04 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "2xVWD0613Ow",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
       "peca": "short1",
       "data_alvo": "2026-09-04",
       "publish_at_utc": "2026-09-04T16:30:00Z",
@@ -7279,9 +7315,45 @@
       "publish_at_local": "2026-09-04 16:00 America/New_York"
     },
     {
+      "video_id": "y4FUEs9jLac",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T20:00:00Z",
+      "publish_at_local": "2026-09-04 16:00 America/New_York"
+    },
+    {
+      "video_id": "D4P0QiFA77M",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short2",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T20:00:00Z",
+      "publish_at_local": "2026-09-04 16:00 America/New_York"
+    },
+    {
+      "video_id": "pPT9xOzRKZg",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short2",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T21:30:00Z",
+      "publish_at_local": "2026-09-04 17:30 America/New_York"
+    },
+    {
       "video_id": "44dVB-et1aA",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-04T22:00:00Z",
+      "publish_at_local": "2026-09-04 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "lcCOZrqPLrg",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
       "peca": "short2",
       "data_alvo": "2026-09-04",
       "publish_at_utc": "2026-09-04T22:00:00Z",
@@ -7306,9 +7378,45 @@
       "publish_at_local": "2026-09-04 20:00 America/New_York"
     },
     {
+      "video_id": "kQPbFx5XrPk",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short3",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-05T00:00:00Z",
+      "publish_at_local": "2026-09-04 20:00 America/New_York"
+    },
+    {
+      "video_id": "BOXt-pEfrnY",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short3",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-05T00:00:00Z",
+      "publish_at_local": "2026-09-04 20:00 America/New_York"
+    },
+    {
+      "video_id": "N1vzmz-w2hw",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short3",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-05T00:00:00Z",
+      "publish_at_local": "2026-09-04 20:00 America/New_York"
+    },
+    {
       "video_id": "P1M-DxXk038",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-09-04",
+      "publish_at_utc": "2026-09-05T02:00:00Z",
+      "publish_at_local": "2026-09-04 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "MikSsBfbPH0",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
       "peca": "short3",
       "data_alvo": "2026-09-04",
       "publish_at_utc": "2026-09-05T02:00:00Z",

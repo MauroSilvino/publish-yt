@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 991,
+  "total": 992,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -8650,6 +8650,15 @@
       "video_id": "lnEL8mcCoAw",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-09-09",
+      "publish_at_utc": "2026-09-09T09:00:00Z",
+      "publish_at_local": "2026-09-09 06:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "FaYThskdJ_A",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "longo",
       "data_alvo": "2026-09-09",
       "publish_at_utc": "2026-09-09T09:00:00Z",

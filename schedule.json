@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 908,
+  "total": 912,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -8098,6 +8098,15 @@
       "publish_at_local": "2026-09-07 10:30 America/New_York"
     },
     {
+      "video_id": "FpN3Q2jzyMk",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-09-07",
+      "publish_at_utc": "2026-09-07T14:30:00Z",
+      "publish_at_local": "2026-09-07 10:30 America/New_York"
+    },
+    {
       "video_id": "HIimpEvM2pw",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -8125,6 +8134,15 @@
       "publish_at_local": "2026-09-07 14:00 America/New_York"
     },
     {
+      "video_id": "UONA2yJGEx8",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "longo",
+      "data_alvo": "2026-09-07",
+      "publish_at_utc": "2026-09-07T18:00:00Z",
+      "publish_at_local": "2026-09-07 14:00 America/New_York"
+    },
+    {
       "video_id": "3fwaExrvOIo",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -8137,6 +8155,15 @@
       "video_id": "N86yqrc3iwg",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short2",
+      "data_alvo": "2026-09-07",
+      "publish_at_utc": "2026-09-07T20:00:00Z",
+      "publish_at_local": "2026-09-07 16:00 America/New_York"
+    },
+    {
+      "video_id": "zve6b2AcIhE",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
       "peca": "short2",
       "data_alvo": "2026-09-07",
       "publish_at_utc": "2026-09-07T20:00:00Z",
@@ -8164,6 +8191,15 @@
       "video_id": "hm-sfwUS430",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-09-07",
+      "publish_at_utc": "2026-09-08T00:00:00Z",
+      "publish_at_local": "2026-09-07 20:00 America/New_York"
+    },
+    {
+      "video_id": "NfQHIB9Kc2E",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
       "peca": "short3",
       "data_alvo": "2026-09-07",
       "publish_at_utc": "2026-09-08T00:00:00Z",

@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 987,
+  "total": 991,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -8665,6 +8665,15 @@
       "publish_at_local": "2026-09-09 08:00 America/Sao_Paulo"
     },
     {
+      "video_id": "C2Z69l86e58",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short1",
+      "data_alvo": "2026-09-09",
+      "publish_at_utc": "2026-09-09T11:00:00Z",
+      "publish_at_local": "2026-09-09 08:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "cEXSe2xiO60",
       "account_id": "youtube_stolen-greed",
       "canal": "ProsperNest",
@@ -8704,6 +8713,15 @@
       "video_id": "wgHXJafcAvk",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-09",
+      "publish_at_utc": "2026-09-09T15:30:00Z",
+      "publish_at_local": "2026-09-09 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "ZFuX6rzWiAM",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short2",
       "data_alvo": "2026-09-09",
       "publish_at_utc": "2026-09-09T15:30:00Z",
@@ -8800,6 +8818,15 @@
       "publish_at_local": "2026-09-09 16:00 America/New_York"
     },
     {
+      "video_id": "ARouaDulAEI",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-09-09",
+      "publish_at_utc": "2026-09-09T20:00:00Z",
+      "publish_at_local": "2026-09-09 14:00 America/Mexico_City"
+    },
+    {
       "video_id": "GAgF3PHbWiQ",
       "account_id": "youtube_stolen-greed",
       "canal": "ProsperNest",
@@ -8830,6 +8857,15 @@
       "video_id": "KTtenvMrweE",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-09",
+      "publish_at_utc": "2026-09-09T23:00:00Z",
+      "publish_at_local": "2026-09-09 20:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "9p2RJI6XGd0",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short3",
       "data_alvo": "2026-09-09",
       "publish_at_utc": "2026-09-09T23:00:00Z",

@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1080,
+  "total": 1084,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -9592,6 +9592,15 @@
       "publish_at_local": "2026-09-12 10:30 America/Mexico_City"
     },
     {
+      "video_id": "qS90yydXA5Y",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-09-12",
+      "publish_at_utc": "2026-09-12T16:30:00Z",
+      "publish_at_local": "2026-09-12 10:30 America/Mexico_City"
+    },
+    {
       "video_id": "1e_Gq7uroEE",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -9655,6 +9664,15 @@
       "publish_at_local": "2026-09-12 16:00 America/New_York"
     },
     {
+      "video_id": "nierJOpuqKo",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-09-12",
+      "publish_at_utc": "2026-09-12T20:00:00Z",
+      "publish_at_local": "2026-09-12 14:00 America/Mexico_City"
+    },
+    {
       "video_id": "_7wHYV-1H0s",
       "account_id": "youtube_stolen-greed",
       "canal": "ProsperNest",
@@ -9667,6 +9685,15 @@
       "video_id": "Af1VU0QtZaY",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-09-12",
+      "publish_at_utc": "2026-09-12T22:00:00Z",
+      "publish_at_local": "2026-09-12 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "92bG4lu5YyY",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
       "peca": "short2",
       "data_alvo": "2026-09-12",
       "publish_at_utc": "2026-09-12T22:00:00Z",
@@ -9721,6 +9748,15 @@
       "video_id": "_HlQaIO07W4",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-09-12",
+      "publish_at_utc": "2026-09-13T02:00:00Z",
+      "publish_at_local": "2026-09-12 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "biIK83CXslM",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
       "peca": "short3",
       "data_alvo": "2026-09-12",
       "publish_at_utc": "2026-09-13T02:00:00Z",

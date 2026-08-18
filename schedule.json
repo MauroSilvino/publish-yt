@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1040,
+  "total": 1044,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -9259,6 +9259,15 @@
       "publish_at_local": "2026-09-11 10:30 America/New_York"
     },
     {
+      "video_id": "LZKaHjGFsO8",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short1",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T14:30:00Z",
+      "publish_at_local": "2026-09-11 10:30 America/New_York"
+    },
+    {
       "video_id": "XVHdYrL7oQ4",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -9295,6 +9304,15 @@
       "publish_at_local": "2026-09-11 14:00 America/New_York"
     },
     {
+      "video_id": "wQZsibo8_QU",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "longo",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T18:00:00Z",
+      "publish_at_local": "2026-09-11 14:00 America/New_York"
+    },
+    {
       "video_id": "p4Etz8_kFm4",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -9316,6 +9334,15 @@
       "video_id": "xRrkPENSv-M",
       "account_id": "youtube_borrow-widely",
       "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T20:00:00Z",
+      "publish_at_local": "2026-09-11 16:00 America/New_York"
+    },
+    {
+      "video_id": "Rp1Zby1oZ6c",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "short2",
       "data_alvo": "2026-09-11",
       "publish_at_utc": "2026-09-11T20:00:00Z",
@@ -9352,6 +9379,15 @@
       "video_id": "GT5n6YSRo1c",
       "account_id": "youtube_borrow-widely",
       "canal": "Forgotten Catastrophes",
+      "peca": "short3",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-12T00:00:00Z",
+      "publish_at_local": "2026-09-11 20:00 America/New_York"
+    },
+    {
+      "video_id": "LVun_ENKnZ8",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
       "peca": "short3",
       "data_alvo": "2026-09-11",
       "publish_at_utc": "2026-09-12T00:00:00Z",

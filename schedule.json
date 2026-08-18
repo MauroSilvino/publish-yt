@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1032,
+  "total": 1036,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -9223,6 +9223,24 @@
       "publish_at_local": "2026-09-10 20:00 America/Mexico_City"
     },
     {
+      "video_id": "w8-RYuz0t2I",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T09:00:00Z",
+      "publish_at_local": "2026-09-11 06:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "Kvo_zBNKR3k",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T11:00:00Z",
+      "publish_at_local": "2026-09-11 08:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "-7DnGl5QrMY",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -9230,6 +9248,15 @@
       "data_alvo": "2026-09-11",
       "publish_at_utc": "2026-09-11T14:30:00Z",
       "publish_at_local": "2026-09-11 10:30 America/New_York"
+    },
+    {
+      "video_id": "XVHdYrL7oQ4",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T15:30:00Z",
+      "publish_at_local": "2026-09-11 12:30 America/Sao_Paulo"
     },
     {
       "video_id": "OQzUmib50sI",
@@ -9275,6 +9302,15 @@
       "data_alvo": "2026-09-11",
       "publish_at_utc": "2026-09-11T22:00:00Z",
       "publish_at_local": "2026-09-11 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "_G9rGC53DD8",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-11",
+      "publish_at_utc": "2026-09-11T23:00:00Z",
+      "publish_at_local": "2026-09-11 20:00 America/Sao_Paulo"
     },
     {
       "video_id": "saQUUVZMuR8",

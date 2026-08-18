@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1160,
+  "total": 1170,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -10375,6 +10375,33 @@
       "publish_at_local": "2026-09-14 20:00 America/Mexico_City"
     },
     {
+      "video_id": "QX5HgMLJa_Y",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T09:00:00Z",
+      "publish_at_local": "2026-09-15 06:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "3cbsye31p84",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T11:00:00Z",
+      "publish_at_local": "2026-09-15 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "1P0N3DDxot0",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T14:30:00Z",
+      "publish_at_local": "2026-09-15 10:30 America/New_York"
+    },
+    {
       "video_id": "QT9grqFve7Q",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -10382,6 +10409,24 @@
       "data_alvo": "2026-09-15",
       "publish_at_utc": "2026-09-15T14:30:00Z",
       "publish_at_local": "2026-09-15 10:30 America/New_York"
+    },
+    {
+      "video_id": "LtQlcKofgFw",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T15:30:00Z",
+      "publish_at_local": "2026-09-15 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "9pwyXCpAq-Y",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short1",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T16:00:00Z",
+      "publish_at_local": "2026-09-15 12:00 America/New_York"
     },
     {
       "video_id": "UqmMG4HBkkY",
@@ -10411,6 +10456,15 @@
       "publish_at_local": "2026-09-15 14:00 America/Mexico_City"
     },
     {
+      "video_id": "h8l4yEZFJuw",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T20:00:00Z",
+      "publish_at_local": "2026-09-15 16:00 America/New_York"
+    },
+    {
       "video_id": "kjEuMZnOtpw",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -10418,6 +10472,15 @@
       "data_alvo": "2026-09-15",
       "publish_at_utc": "2026-09-15T20:00:00Z",
       "publish_at_local": "2026-09-15 16:00 America/New_York"
+    },
+    {
+      "video_id": "SPn9ya1NRFw",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short2",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T21:30:00Z",
+      "publish_at_local": "2026-09-15 17:30 America/New_York"
     },
     {
       "video_id": "0e3vj2uhbYk",
@@ -10429,9 +10492,36 @@
       "publish_at_local": "2026-09-15 16:00 America/Mexico_City"
     },
     {
+      "video_id": "fhMM7x30Y8c",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-15T23:00:00Z",
+      "publish_at_local": "2026-09-15 20:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "Y1uVEdartRg",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short3",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-16T00:00:00Z",
+      "publish_at_local": "2026-09-15 20:00 America/New_York"
+    },
+    {
       "video_id": "nIRhR6SHeVo",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-09-15",
+      "publish_at_utc": "2026-09-16T00:00:00Z",
+      "publish_at_local": "2026-09-15 20:00 America/New_York"
+    },
+    {
+      "video_id": "Q3dcs18y4yc",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
       "peca": "short3",
       "data_alvo": "2026-09-15",
       "publish_at_utc": "2026-09-16T00:00:00Z",

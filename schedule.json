@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1170,
+  "total": 1169,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -10499,15 +10499,6 @@
       "data_alvo": "2026-09-15",
       "publish_at_utc": "2026-09-15T23:00:00Z",
       "publish_at_local": "2026-09-15 20:00 America/Sao_Paulo"
-    },
-    {
-      "video_id": "Y1uVEdartRg",
-      "account_id": "youtube_borrow-widely",
-      "canal": "Forgotten Catastrophes",
-      "peca": "short3",
-      "data_alvo": "2026-09-15",
-      "publish_at_utc": "2026-09-16T00:00:00Z",
-      "publish_at_local": "2026-09-15 20:00 America/New_York"
     },
     {
       "video_id": "nIRhR6SHeVo",

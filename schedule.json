@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1113,
+  "total": 1115,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -9898,6 +9898,15 @@
       "publish_at_local": "2026-09-13 14:00 America/New_York"
     },
     {
+      "video_id": "S_45N2NBR0s",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "longo",
+      "data_alvo": "2026-09-13",
+      "publish_at_utc": "2026-09-13T18:00:00Z",
+      "publish_at_local": "2026-09-13 14:00 America/New_York"
+    },
+    {
       "video_id": "EndlwUFD_ps",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -9932,6 +9941,15 @@
       "data_alvo": "2026-09-13",
       "publish_at_utc": "2026-09-13T20:00:00Z",
       "publish_at_local": "2026-09-13 16:00 America/New_York"
+    },
+    {
+      "video_id": "lKrgA_vg9to",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-09-13",
+      "publish_at_utc": "2026-09-13T20:00:00Z",
+      "publish_at_local": "2026-09-13 14:00 America/Mexico_City"
     },
     {
       "video_id": "eVLLP_Mopag",

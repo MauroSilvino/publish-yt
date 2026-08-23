@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-23"
   ],
-  "total": 1236,
+  "total": 1240,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -10969,6 +10969,15 @@
       "publish_at_local": "2026-09-17 08:00 America/Sao_Paulo"
     },
     {
+      "video_id": "q_jLH0fx3mo",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "longo",
+      "data_alvo": "2026-09-17",
+      "publish_at_utc": "2026-09-17T11:30:00Z",
+      "publish_at_local": "2026-09-17 07:30 America/New_York"
+    },
+    {
       "video_id": "ZFK57xxmmsk",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
@@ -11003,6 +11012,15 @@
       "data_alvo": "2026-09-17",
       "publish_at_utc": "2026-09-17T15:30:00Z",
       "publish_at_local": "2026-09-17 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "m6gyhm5cGqw",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short1",
+      "data_alvo": "2026-09-17",
+      "publish_at_utc": "2026-09-17T16:00:00Z",
+      "publish_at_local": "2026-09-17 12:00 America/New_York"
     },
     {
       "video_id": "E9b3rbETd4I",
@@ -11077,6 +11095,15 @@
       "publish_at_local": "2026-09-17 16:00 America/New_York"
     },
     {
+      "video_id": "RIlatUGqDs0",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "short2",
+      "data_alvo": "2026-09-17",
+      "publish_at_utc": "2026-09-17T21:30:00Z",
+      "publish_at_local": "2026-09-17 17:30 America/New_York"
+    },
+    {
       "video_id": "mrEY4_uxUJc",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -11116,6 +11143,15 @@
       "video_id": "kyhaXqljNiU",
       "account_id": "youtube_gamin-parsee",
       "canal": "Mind Games Exposed",
+      "peca": "short3",
+      "data_alvo": "2026-09-17",
+      "publish_at_utc": "2026-09-18T00:00:00Z",
+      "publish_at_local": "2026-09-17 20:00 America/New_York"
+    },
+    {
+      "video_id": "jSD5FsLvX0g",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
       "peca": "short3",
       "data_alvo": "2026-09-17",
       "publish_at_utc": "2026-09-18T00:00:00Z",

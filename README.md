@@ -55,5 +55,9 @@ então prova que MCP+auth+ferramenta funcionam sem publicar nada antes da hora.
 - **DST:** os horários já saem em UTC com horário de verão correto (melhor que o cron local antigo).
 - **Ativação do cron:** o Actions desativa cron de repo após 60 dias sem atividade; como o workflow commita `state.json` a cada publicação, ele se mantém ativo durante a campanha.
 - **Novos dias (23+):** rode `python3 gen_schedule.py 2026-08-23 2026-08-29` e dê commit no `schedule.json` atualizado.
+- **Retomada após pausa longa:** o workflow ficou desligado manualmente 18-24/08 (ver
+  `../ESTADO-PAUSA-esteira-2026-08-18.md`). Ao reativar, `SCHEDULE_MIN_DATE=2026-08-24` no
+  `publish.yml` faz o runner ignorar o backlog anterior a essa data (fica privado pra sempre,
+  não publica retroativo). Ajuste/remova essa env quando não precisar mais do corte.
 - **Transporte:** o runner fala com o MCP hospedado (`COMPOSIO_MCP_URL`, default `https://connect.composio.dev/mcp`) via JSON-RPC/Streamable-HTTP, chamando `COMPOSIO_MULTI_EXECUTE_TOOL` → `YOUTUBE_UPDATE_VIDEO` na conta certa. Só stdlib, sem SDK.
 - **Desligar o cron local:** só remova/disable as 32 tarefas `publicar-*` DEPOIS de confirmar 1 ciclo na nuvem (pra não ficar sem publicar nem publicar em dobro).

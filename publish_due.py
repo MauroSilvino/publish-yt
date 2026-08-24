@@ -19,9 +19,13 @@ Uso:
 Env obrigatória:
   COMPOSIO_CONSUMER_KEY   consumer key do Composio (header x-consumer-api-key, começa com ck_)
 Env opcional:
-  COMPOSIO_MCP_URL   default https://connect.composio.dev/mcp
-  SCHEDULE_FILE      default ./schedule.json
-  STATE_FILE         default ./state.json
+  COMPOSIO_MCP_URL      default https://connect.composio.dev/mcp
+  SCHEDULE_FILE         default ./schedule.json
+  STATE_FILE            default ./state.json
+  SCHEDULE_MIN_DATE     AAAA-MM-DD; se definida, ignora itens vencidos com data_alvo anterior a
+                        essa data (não publica nem marca como feito -- fica pra sempre de fora).
+                        Usado pra retomar depois de uma pausa longa sem tentar publicar de uma vez
+                        o backlog acumulado.
 """
 import os, sys, json, time
 from datetime import datetime, timezone
@@ -44,6 +48,7 @@ def _resolve_key():
 KEY = _resolve_key()
 SCHED_FILE = os.environ.get("SCHEDULE_FILE", os.path.join(os.path.dirname(__file__), "schedule.json"))
 STATE_FILE = os.environ.get("STATE_FILE", os.path.join(os.path.dirname(__file__), "state.json"))
+MIN_DATE = os.environ.get("SCHEDULE_MIN_DATE", "")
 
 def now_utc():
     return datetime.now(timezone.utc)
@@ -196,7 +201,14 @@ def main():
            and datetime.strptime(s["publish_at_utc"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc) <= agora]
     due.sort(key=lambda s: s["publish_at_utc"])
 
-    print(f"[{agora.isoformat()}] agenda={len(sched)} já_publicados={len(done)} vencidos_agora={len(due)}")
+    pulados_backlog = 0
+    if MIN_DATE:
+        antes = len(due)
+        due = [s for s in due if s["data_alvo"] >= MIN_DATE]
+        pulados_backlog = antes - len(due)
+
+    print(f"[{agora.isoformat()}] agenda={len(sched)} já_publicados={len(done)} vencidos_agora={len(due)}"
+          + (f" ignorados_backlog(<{MIN_DATE})={pulados_backlog}" if MIN_DATE else ""))
     if not due:
         print("nada a publicar."); return
 

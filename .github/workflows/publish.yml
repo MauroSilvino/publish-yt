@@ -26,7 +26,9 @@ jobs:
           COMPOSIO_CONSUMER_KEY: ${{ secrets.COMPOSIO_CONSUMER_KEY }}
           # Esteira ficou pausada 18-24/08 (ver ESTADO-PAUSA-esteira-2026-08-18.md); ao reativar,
           # ignora o backlog acumulado nesse intervalo em vez de tentar publicar tudo de uma vez.
-          SCHEDULE_MIN_DATE: "2026-08-24"
+          # Valor em vars.SCHEDULE_MIN_DATE (Settings > Secrets and variables > Actions > Variables),
+          # compartilhado com o vigia.yml pra não duplicar/desalinhar.
+          SCHEDULE_MIN_DATE: ${{ vars.SCHEDULE_MIN_DATE }}
         run: python3 publish_due.py
 
       - name: Persistir estado (state.json)

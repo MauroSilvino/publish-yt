@@ -1,0 +1,81 @@
+name: vigia-publicacao
+
+# Roda independente do publish.yml (na nuvem, sem depender do PC) e confere se ele está
+# ativo, rodando no horário, e realmente publicando o que vence. Se achar problema, abre
+# (ou atualiza) uma Issue no repo -- o GitHub notifica por e-mail o dono do repo sozinho,
+# sem precisar de secret novo nem canal externo. Fecha a Issue sozinho quando resolver.
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  actions: read
+  issues: write
+
+concurrency:
+  group: vigia-publicacao
+  cancel-in-progress: false
+
+env:
+  ALERT_TITLE: "🚨 publicação YouTube travada"
+
+jobs:
+  vigiar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Coletar estado do publish.yml
+        id: info
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          STATE=$(gh api "repos/${{ github.repository }}/actions/workflows/publish.yml" --jq .state)
+          LAST=$(gh run list --repo "${{ github.repository }}" --workflow=publish.yml --limit 1 --json conclusion,createdAt --jq '.[0]')
+          CONCL=$(echo "$LAST" | jq -r '.conclusion // "desconhecido"')
+          CREATED=$(echo "$LAST" | jq -r '.createdAt // empty')
+          if [ -z "$CREATED" ]; then
+            MIN_AGO=999999
+          else
+            MIN_AGO=$(( ($(date -u +%s) - $(date -u -d "$CREATED" +%s)) / 60 ))
+          fi
+          echo "state=$STATE" >> "$GITHUB_OUTPUT"
+          echo "conclusion=$CONCL" >> "$GITHUB_OUTPUT"
+          echo "minutes_ago=$MIN_AGO" >> "$GITHUB_OUTPUT"
+
+      - name: Checar saúde (workflow + agenda)
+        id: check
+        run: |
+          set +e
+          python3 vigia_publicacao.py \
+            --workflow-state "${{ steps.info.outputs.state }}" \
+            --last-run-conclusion "${{ steps.info.outputs.conclusion }}" \
+            --last-run-minutes-ago "${{ steps.info.outputs.minutes_ago }}" \
+            --min-date "${{ vars.SCHEDULE_MIN_DATE }}" > /tmp/relatorio.txt
+          echo "exit=$?" >> "$GITHUB_OUTPUT"
+          cat /tmp/relatorio.txt
+
+      - name: Abrir/atualizar alerta
+        if: steps.check.outputs.exit != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          EXISTING=$(gh issue list --repo "${{ github.repository }}" --search "in:title \"$ALERT_TITLE\"" --state open --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --repo "${{ github.repository }}" --body-file /tmp/relatorio.txt
+          else
+            gh issue create --repo "${{ github.repository }}" --title "$ALERT_TITLE" --body-file /tmp/relatorio.txt
+          fi
+
+      - name: Fechar alerta se resolvido
+        if: steps.check.outputs.exit == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          EXISTING=$(gh issue list --repo "${{ github.repository }}" --search "in:title \"$ALERT_TITLE\"" --state open --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --repo "${{ github.repository }}" --body "✅ resolvido -- $(cat /tmp/relatorio.txt)"
+            gh issue close "$EXISTING" --repo "${{ github.repository }}"
+          fi

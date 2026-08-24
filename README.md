@@ -14,6 +14,25 @@ os vídeos vencidos de `private` para `public` via API do Composio. Idempotente:
 - `publish_due.py` — o runner (só stdlib, sem `pip install`).
 - `state.json` — o que já foi publicado (o Actions commita de volta a cada rodada).
 - `.github/workflows/publish.yml` — o cron da nuvem (a cada 10 min).
+- `vigia_publicacao.py` + `.github/workflows/vigia.yml` — o vigia (ver seção própria abaixo).
+
+## Vigia (`vigia.yml`) — pra publicação nunca parar sem ninguém perceber
+Rodou 6 dias desligado (18-24/08) sem ninguém notar até um sweep manual achar o backlog.
+O vigia existe pra isso não acontecer de novo: roda sozinho na nuvem a cada 20 min
+(independente do `publish.yml`, então continua checando mesmo se o outro cair) e confere:
+1. o `publish.yml` está `active` (não foi desabilitado, manual ou automaticamente);
+2. o último run dele foi há menos de 40 min (o cron de 10 min não parou de disparar);
+3. não há 3+ itens vencidos há mais de 30 min ainda `private` (a publicação está
+   acompanhando a agenda de verdade, não só "rodando e reportando sucesso").
+
+Se algum desses falhar, abre uma **Issue** no repo (`🚨 publicação YouTube travada`) com o
+diagnóstico — o GitHub avisa por e-mail o dono do repo automaticamente, sem secret nem
+canal externo. Ao voltar a ficar saudável, comenta "✅ resolvido" e fecha a Issue sozinho.
+Não desliga nem religa nada sozinho — só avisa; reativar é decisão sua (ex.: se foi você
+quem pausou de propósito, como em 18/08).
+
+`SCHEDULE_MIN_DATE` é uma **variável do repo** (`Settings → Secrets and variables → Actions
+→ Variables`), compartilhada entre `publish.yml` e `vigia.yml` — só um lugar pra atualizar.
 
 ## Pré-requisito (só você consegue fazer): consumer key do Composio
 O runner autentica no **MCP hospedado do Composio** (`https://connect.composio.dev/mcp`) com a

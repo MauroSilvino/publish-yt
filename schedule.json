@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1377,
+  "total": 1384,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -11815,6 +11815,15 @@
       "publish_at_local": "2026-09-19 20:00 America/Mexico_City"
     },
     {
+      "video_id": "0lDBHihouF4",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T09:00:00Z",
+      "publish_at_local": "2026-09-20 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "u6nFUqT0E-w",
       "account_id": "youtube_velal-june",
       "canal": "Voz da Superação",
@@ -12094,6 +12103,15 @@
       "publish_at_local": "2026-09-20 20:00 America/Mexico_City"
     },
     {
+      "video_id": "8nbzmDXdceQ",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "longo",
+      "data_alvo": "2026-09-21",
+      "publish_at_utc": "2026-09-21T09:00:00Z",
+      "publish_at_local": "2026-09-21 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "RUuNue2BaWI",
       "account_id": "youtube_velal-june",
       "canal": "Voz da Superação",
@@ -12301,6 +12319,15 @@
       "publish_at_local": "2026-09-21 16:00 America/Mexico_City"
     },
     {
+      "video_id": "vLtKfBhnhqA",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-21",
+      "publish_at_utc": "2026-09-21T23:00:00Z",
+      "publish_at_local": "2026-09-21 20:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "AbMVp6FOQHU",
       "account_id": "youtube_velal-june",
       "canal": "Voz da Superação",
@@ -12364,6 +12391,15 @@
       "publish_at_local": "2026-09-21 20:00 America/Mexico_City"
     },
     {
+      "video_id": "ZnXrKFwdHI8",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short1",
+      "data_alvo": "2026-09-22",
+      "publish_at_utc": "2026-09-22T14:30:00Z",
+      "publish_at_local": "2026-09-22 10:30 America/New_York"
+    },
+    {
       "video_id": "FPNSt60OoWw",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -12371,6 +12407,15 @@
       "data_alvo": "2026-09-22",
       "publish_at_utc": "2026-09-22T16:30:00Z",
       "publish_at_local": "2026-09-22 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "gDaVAvYz5Q4",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "longo",
+      "data_alvo": "2026-09-22",
+      "publish_at_utc": "2026-09-22T18:00:00Z",
+      "publish_at_local": "2026-09-22 14:00 America/New_York"
     },
     {
       "video_id": "ZRzx8N1Sz7g",
@@ -12382,6 +12427,15 @@
       "publish_at_local": "2026-09-22 14:00 America/Mexico_City"
     },
     {
+      "video_id": "MCyfhp-j_Zg",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short2",
+      "data_alvo": "2026-09-22",
+      "publish_at_utc": "2026-09-22T20:00:00Z",
+      "publish_at_local": "2026-09-22 16:00 America/New_York"
+    },
+    {
       "video_id": "PCMtYbAoagM",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -12389,6 +12443,15 @@
       "data_alvo": "2026-09-22",
       "publish_at_utc": "2026-09-22T22:00:00Z",
       "publish_at_local": "2026-09-22 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "80RQ66QaK7Y",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-09-22",
+      "publish_at_utc": "2026-09-23T00:00:00Z",
+      "publish_at_local": "2026-09-22 20:00 America/New_York"
     },
     {
       "video_id": "ldgn_pBmAS0",

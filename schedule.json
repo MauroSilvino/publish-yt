@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1316,
+  "total": 1320,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -11815,6 +11815,15 @@
       "publish_at_local": "2026-09-19 20:00 America/Mexico_City"
     },
     {
+      "video_id": "OAxww58f-WU",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short1",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T14:30:00Z",
+      "publish_at_local": "2026-09-20 10:30 America/New_York"
+    },
+    {
       "video_id": "6_xvH5fPXFs",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -11822,6 +11831,15 @@
       "data_alvo": "2026-09-20",
       "publish_at_utc": "2026-09-20T16:30:00Z",
       "publish_at_local": "2026-09-20 10:30 America/Mexico_City"
+    },
+    {
+      "video_id": "PLXNFRWG3nE",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "longo",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T18:00:00Z",
+      "publish_at_local": "2026-09-20 14:00 America/New_York"
     },
     {
       "video_id": "U4gtLHin-bY",
@@ -11833,6 +11851,15 @@
       "publish_at_local": "2026-09-20 14:00 America/Mexico_City"
     },
     {
+      "video_id": "a_Sd3_ZY_Lk",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short2",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T20:00:00Z",
+      "publish_at_local": "2026-09-20 16:00 America/New_York"
+    },
+    {
       "video_id": "md6nY1VhM3k",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -11840,6 +11867,15 @@
       "data_alvo": "2026-09-20",
       "publish_at_utc": "2026-09-20T22:00:00Z",
       "publish_at_local": "2026-09-20 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "wDJU5iCETHk",
+      "account_id": "youtube_briss-hepper",
+      "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-21T00:00:00Z",
+      "publish_at_local": "2026-09-20 20:00 America/New_York"
     },
     {
       "video_id": "qtLzzaTRQc0",

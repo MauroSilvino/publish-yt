@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1292,
+  "total": 1297,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -11554,6 +11554,24 @@
       "publish_at_local": "2026-09-19 10:30 America/New_York"
     },
     {
+      "video_id": "bIbm4EMdcdM",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short1",
+      "data_alvo": "2026-09-19",
+      "publish_at_utc": "2026-09-19T14:30:00Z",
+      "publish_at_local": "2026-09-19 10:30 America/New_York"
+    },
+    {
+      "video_id": "Z6hVEEDd75Y",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short1",
+      "data_alvo": "2026-09-19",
+      "publish_at_utc": "2026-09-19T14:30:00Z",
+      "publish_at_local": "2026-09-19 10:30 America/New_York"
+    },
+    {
       "video_id": "viZ_xsK5C9E",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
@@ -11599,6 +11617,24 @@
       "publish_at_local": "2026-09-19 16:00 America/New_York"
     },
     {
+      "video_id": "PWK70NWgBOE",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
+      "peca": "short2",
+      "data_alvo": "2026-09-19",
+      "publish_at_utc": "2026-09-19T20:00:00Z",
+      "publish_at_local": "2026-09-19 16:00 America/New_York"
+    },
+    {
+      "video_id": "DLluk4ffPWE",
+      "account_id": "youtube_gamin-parsee",
+      "canal": "Mind Games Exposed",
+      "peca": "short2",
+      "data_alvo": "2026-09-19",
+      "publish_at_utc": "2026-09-19T20:00:00Z",
+      "publish_at_local": "2026-09-19 16:00 America/New_York"
+    },
+    {
       "video_id": "_15Gly-l6AY",
       "account_id": "youtube_amlong-hight",
       "canal": "Catástrofes Olvidadas",
@@ -11620,6 +11656,15 @@
       "video_id": "HghNSH0iwaM",
       "account_id": "youtube_briss-hepper",
       "canal": "Christ In Minutes",
+      "peca": "short3",
+      "data_alvo": "2026-09-19",
+      "publish_at_utc": "2026-09-20T00:00:00Z",
+      "publish_at_local": "2026-09-19 20:00 America/New_York"
+    },
+    {
+      "video_id": "yBuUIYnXIZA",
+      "account_id": "youtube_borrow-widely",
+      "canal": "Forgotten Catastrophes",
       "peca": "short3",
       "data_alvo": "2026-09-19",
       "publish_at_utc": "2026-09-20T00:00:00Z",

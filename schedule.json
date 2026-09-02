@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1337,
+  "total": 1341,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -11815,9 +11815,27 @@
       "publish_at_local": "2026-09-19 20:00 America/Mexico_City"
     },
     {
+      "video_id": "u6nFUqT0E-w",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "longo",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T09:00:00Z",
+      "publish_at_local": "2026-09-20 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "vwMpJoUE_tk",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T11:00:00Z",
+      "publish_at_local": "2026-09-20 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "3Z42MuSwbho",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short1",
       "data_alvo": "2026-09-20",
       "publish_at_utc": "2026-09-20T11:00:00Z",
@@ -11858,6 +11876,15 @@
       "data_alvo": "2026-09-20",
       "publish_at_utc": "2026-09-20T14:30:00Z",
       "publish_at_local": "2026-09-20 10:30 America/New_York"
+    },
+    {
+      "video_id": "xw4Vma1xj10",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short2",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T15:30:00Z",
+      "publish_at_local": "2026-09-20 12:30 America/Sao_Paulo"
     },
     {
       "video_id": "zWkXG3E5Xfg",
@@ -11984,6 +12011,15 @@
       "data_alvo": "2026-09-20",
       "publish_at_utc": "2026-09-20T22:00:00Z",
       "publish_at_local": "2026-09-20 16:00 America/Mexico_City"
+    },
+    {
+      "video_id": "DBhV7hRQ54U",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short3",
+      "data_alvo": "2026-09-20",
+      "publish_at_utc": "2026-09-20T23:00:00Z",
+      "publish_at_local": "2026-09-20 20:00 America/Sao_Paulo"
     },
     {
       "video_id": "wDJU5iCETHk",

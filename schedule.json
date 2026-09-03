@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1458,
+  "total": 1460,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -12956,6 +12956,24 @@
       "data_alvo": "2026-09-23",
       "publish_at_utc": "2026-09-24T02:00:00Z",
       "publish_at_local": "2026-09-23 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "fmMIrJf23eg",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-09-24",
+      "publish_at_utc": "2026-09-24T11:00:00Z",
+      "publish_at_local": "2026-09-24 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "b0TYKo1xNYE",
+      "account_id": "youtube_stolen-greed",
+      "canal": "ProsperNest",
+      "peca": "longo",
+      "data_alvo": "2026-09-24",
+      "publish_at_utc": "2026-09-24T11:30:00Z",
+      "publish_at_local": "2026-09-24 07:30 America/New_York"
     },
     {
       "video_id": "zzexWPcHbEA",

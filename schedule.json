@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1532,
+  "total": 1535,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -13561,6 +13561,15 @@
       "publish_at_local": "2026-09-26 08:00 America/Sao_Paulo"
     },
     {
+      "video_id": "14VcvQOGrto",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "short1",
+      "data_alvo": "2026-09-26",
+      "publish_at_utc": "2026-09-26T11:00:00Z",
+      "publish_at_local": "2026-09-26 08:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "o8xeBHPPdOI",
       "account_id": "youtube_stolen-greed",
       "canal": "ProsperNest",
@@ -13600,6 +13609,15 @@
       "video_id": "Gy50XJro8oQ",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-26",
+      "publish_at_utc": "2026-09-26T15:30:00Z",
+      "publish_at_local": "2026-09-26 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "yvq2Mjfpd6g",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short2",
       "data_alvo": "2026-09-26",
       "publish_at_utc": "2026-09-26T15:30:00Z",
@@ -13735,6 +13753,15 @@
       "video_id": "3wSLXgsmek8",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-26",
+      "publish_at_utc": "2026-09-26T23:00:00Z",
+      "publish_at_local": "2026-09-26 20:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "6mZifheDGsQ",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short3",
       "data_alvo": "2026-09-26",
       "publish_at_utc": "2026-09-26T23:00:00Z",

@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1472,
+  "total": 1473,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -13019,6 +13019,15 @@
       "data_alvo": "2026-09-24",
       "publish_at_utc": "2026-09-24T14:30:00Z",
       "publish_at_local": "2026-09-24 10:30 America/New_York"
+    },
+    {
+      "video_id": "m0mPQIr7dJo",
+      "account_id": "youtube_booter-cratch",
+      "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-24",
+      "publish_at_utc": "2026-09-24T15:30:00Z",
+      "publish_at_local": "2026-09-24 12:30 America/Sao_Paulo"
     },
     {
       "video_id": "uGSYWx-Njvs",

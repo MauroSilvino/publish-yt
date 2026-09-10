@@ -4,7 +4,7 @@
     "2026-08-10",
     "2026-09-30"
   ],
-  "total": 1564,
+  "total": 1568,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -13840,9 +13840,27 @@
       "publish_at_local": "2026-09-27 06:00 America/Sao_Paulo"
     },
     {
+      "video_id": "c3_s9CsthRM",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
+      "peca": "longo",
+      "data_alvo": "2026-09-27",
+      "publish_at_utc": "2026-09-27T09:00:00Z",
+      "publish_at_local": "2026-09-27 06:00 America/Sao_Paulo"
+    },
+    {
       "video_id": "NKwyeCD1aAk",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short1",
+      "data_alvo": "2026-09-27",
+      "publish_at_utc": "2026-09-27T11:00:00Z",
+      "publish_at_local": "2026-09-27 08:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "ZX-JIpS6FvI",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short1",
       "data_alvo": "2026-09-27",
       "publish_at_utc": "2026-09-27T11:00:00Z",
@@ -13888,6 +13906,15 @@
       "video_id": "b2Nizue9zgY",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short2",
+      "data_alvo": "2026-09-27",
+      "publish_at_utc": "2026-09-27T15:30:00Z",
+      "publish_at_local": "2026-09-27 12:30 America/Sao_Paulo"
+    },
+    {
+      "video_id": "duR5mSiL36s",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short2",
       "data_alvo": "2026-09-27",
       "publish_at_utc": "2026-09-27T15:30:00Z",
@@ -14023,6 +14050,15 @@
       "video_id": "1ogTgLwmPuk",
       "account_id": "youtube_booter-cratch",
       "canal": "Cristo em Minutos",
+      "peca": "short3",
+      "data_alvo": "2026-09-27",
+      "publish_at_utc": "2026-09-27T23:00:00Z",
+      "publish_at_local": "2026-09-27 20:00 America/Sao_Paulo"
+    },
+    {
+      "video_id": "1ycUpo6RSRY",
+      "account_id": "youtube_velal-june",
+      "canal": "Voz da Superação",
       "peca": "short3",
       "data_alvo": "2026-09-27",
       "publish_at_utc": "2026-09-27T23:00:00Z",

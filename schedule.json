@@ -2,9 +2,9 @@
   "gerado_de": "manifesto-publicacao-youtube.json",
   "janela": [
     "2026-08-10",
-    "2026-09-30"
+    "2026-10-20"
   ],
-  "total": 1581,
+  "total": 1617,
   "itens": [
     {
       "video_id": "fxvDUgJCeNE",
@@ -14234,6 +14234,330 @@
       "data_alvo": "2026-09-28",
       "publish_at_utc": "2026-09-29T02:00:00Z",
       "publish_at_local": "2026-09-28 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "W0DOnkLz-4Y",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-09-28",
+      "publish_at_utc": "2026-09-29T02:00:00Z",
+      "publish_at_local": "2026-09-28 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "oHDzfkBDtRk",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-09-29",
+      "publish_at_utc": "2026-09-29T20:00:00Z",
+      "publish_at_local": "2026-09-29 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "7QuYWVa3o10",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-09-29",
+      "publish_at_utc": "2026-09-29T20:00:00Z",
+      "publish_at_local": "2026-09-29 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "OJg_ZTtyk-Y",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-09-29",
+      "publish_at_utc": "2026-09-30T02:00:00Z",
+      "publish_at_local": "2026-09-29 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "81G3Vh5_tZ0",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-09-29",
+      "publish_at_utc": "2026-09-30T02:00:00Z",
+      "publish_at_local": "2026-09-29 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "chQhBJB3ohA",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-09-30",
+      "publish_at_utc": "2026-10-01T02:00:00Z",
+      "publish_at_local": "2026-09-30 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "rRXictXEVf8",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-09-30",
+      "publish_at_utc": "2026-10-01T02:00:00Z",
+      "publish_at_local": "2026-09-30 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "xTbdMXMcRQY",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-01",
+      "publish_at_utc": "2026-10-02T02:00:00Z",
+      "publish_at_local": "2026-10-01 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "j6tc-1pwN5g",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-01",
+      "publish_at_utc": "2026-10-02T02:00:00Z",
+      "publish_at_local": "2026-10-01 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "PhBY0g7Y8So",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-02",
+      "publish_at_utc": "2026-10-03T02:00:00Z",
+      "publish_at_local": "2026-10-02 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "TgDu1fLllX4",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-02",
+      "publish_at_utc": "2026-10-03T02:00:00Z",
+      "publish_at_local": "2026-10-02 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "XKiGMk0O90s",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-10-03",
+      "publish_at_utc": "2026-10-03T20:00:00Z",
+      "publish_at_local": "2026-10-03 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "rLC9T9ZNTLk",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-10-03",
+      "publish_at_utc": "2026-10-03T20:00:00Z",
+      "publish_at_local": "2026-10-03 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "VTF3Gbf0a5I",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-03",
+      "publish_at_utc": "2026-10-04T02:00:00Z",
+      "publish_at_local": "2026-10-03 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "jBtFnoe0o-U",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-03",
+      "publish_at_utc": "2026-10-04T02:00:00Z",
+      "publish_at_local": "2026-10-03 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "6b_bj9LG7q4",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-04",
+      "publish_at_utc": "2026-10-05T02:00:00Z",
+      "publish_at_local": "2026-10-04 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "acapT46wj3Q",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-04",
+      "publish_at_utc": "2026-10-05T02:00:00Z",
+      "publish_at_local": "2026-10-04 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "xxVJ2-s3Vgg",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-05",
+      "publish_at_utc": "2026-10-06T02:00:00Z",
+      "publish_at_local": "2026-10-05 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "7_eej_Pyt1I",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-05",
+      "publish_at_utc": "2026-10-06T02:00:00Z",
+      "publish_at_local": "2026-10-05 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "cvY_xguHMuk",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-10-06",
+      "publish_at_utc": "2026-10-06T20:00:00Z",
+      "publish_at_local": "2026-10-06 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "Tf2snqWYq0s",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-10-06",
+      "publish_at_utc": "2026-10-06T20:00:00Z",
+      "publish_at_local": "2026-10-06 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "-0joL5sxUxY",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-06",
+      "publish_at_utc": "2026-10-07T02:00:00Z",
+      "publish_at_local": "2026-10-06 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "CwTUdibaqsg",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-06",
+      "publish_at_utc": "2026-10-07T02:00:00Z",
+      "publish_at_local": "2026-10-06 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "Rls9tx1EF1E",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-07",
+      "publish_at_utc": "2026-10-08T02:00:00Z",
+      "publish_at_local": "2026-10-07 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "uRlNOo4uL4g",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-07",
+      "publish_at_utc": "2026-10-08T02:00:00Z",
+      "publish_at_local": "2026-10-07 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "hQ9AVEYowtk",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-08",
+      "publish_at_utc": "2026-10-09T02:00:00Z",
+      "publish_at_local": "2026-10-08 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "KtFtZjrVUww",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-08",
+      "publish_at_utc": "2026-10-09T02:00:00Z",
+      "publish_at_local": "2026-10-08 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "EwcWG5hVCpo",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-09",
+      "publish_at_utc": "2026-10-10T02:00:00Z",
+      "publish_at_local": "2026-10-09 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "ID4UnYeghsI",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-09",
+      "publish_at_utc": "2026-10-10T02:00:00Z",
+      "publish_at_local": "2026-10-09 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "dVBcCSCtJJs",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "longo",
+      "data_alvo": "2026-10-10",
+      "publish_at_utc": "2026-10-10T20:00:00Z",
+      "publish_at_local": "2026-10-10 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "nnxFvbzdlaI",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "longo",
+      "data_alvo": "2026-10-10",
+      "publish_at_utc": "2026-10-10T20:00:00Z",
+      "publish_at_local": "2026-10-10 14:00 America/Mexico_City"
+    },
+    {
+      "video_id": "387ZvG1HfFw",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-10",
+      "publish_at_utc": "2026-10-11T02:00:00Z",
+      "publish_at_local": "2026-10-10 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "aGCQhv3iyZw",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-10",
+      "publish_at_utc": "2026-10-11T02:00:00Z",
+      "publish_at_local": "2026-10-10 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "Cvej6M7OgpA",
+      "account_id": "youtube_blart-stra",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-11",
+      "publish_at_utc": "2026-10-12T02:00:00Z",
+      "publish_at_local": "2026-10-11 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "0tCf0lxJhiA",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-11",
+      "publish_at_utc": "2026-10-12T02:00:00Z",
+      "publish_at_local": "2026-10-11 20:00 America/Mexico_City"
+    },
+    {
+      "video_id": "D-geWv0uG4o",
+      "account_id": "youtube_amlong-hight",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-12",
+      "publish_at_utc": "2026-10-13T02:00:00Z",
+      "publish_at_local": "2026-10-12 20:00 America/Mexico_City"
     }
   ]
 }

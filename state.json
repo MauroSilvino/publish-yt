@@ -7307,6 +7307,24 @@
       "canal": "Catástrofes Olvidadas",
       "peca": "longo",
       "data_alvo": "2026-09-28"
+    },
+    "0TL-1Qh7sPY": {
+      "quando": "2026-09-29T11:49:23Z",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short2",
+      "data_alvo": "2026-09-28"
+    },
+    "cwVckzyRYGM": {
+      "quando": "2026-09-29T11:49:26Z",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short3",
+      "data_alvo": "2026-09-28"
+    },
+    "W0DOnkLz-4Y": {
+      "quando": "2026-09-29T11:49:30Z",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-09-28"
     }
   }
 }

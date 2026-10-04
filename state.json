@@ -7397,6 +7397,18 @@
       "canal": "Catástrofes Olvidadas",
       "peca": "longo",
       "data_alvo": "2026-10-03"
+    },
+    "VTF3Gbf0a5I": {
+      "quando": "2026-10-04T12:37:17Z",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-03"
+    },
+    "jBtFnoe0o-U": {
+      "quando": "2026-10-04T12:37:23Z",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-03"
     }
   }
 }

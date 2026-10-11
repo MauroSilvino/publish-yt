@@ -7505,6 +7505,18 @@
       "canal": "Catástrofes Olvidadas",
       "peca": "longo",
       "data_alvo": "2026-10-10"
+    },
+    "387ZvG1HfFw": {
+      "quando": "2026-10-11T07:14:18Z",
+      "canal": "Trampas De La Mente",
+      "peca": "short1",
+      "data_alvo": "2026-10-10"
+    },
+    "aGCQhv3iyZw": {
+      "quando": "2026-10-11T07:14:21Z",
+      "canal": "Catástrofes Olvidadas",
+      "peca": "short1",
+      "data_alvo": "2026-10-10"
     }
   }
 }
